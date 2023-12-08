@@ -1,0 +1,7 @@
+.idea
+CMakeLists.txt
+cmake-build-debug
+venv
+parallel_exec
+serial_exec
+maps_files
